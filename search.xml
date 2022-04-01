@@ -16,6 +16,13 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<hr>
+<p>title: 前端小项目:使用canvas绘画哆啦A梦 </p>
+<p>date: 2022-04-02</p>
+<p>tags: canvas </p>
+<p>categories: 测试</p>
+<p>copyright: true </p>
+<hr>
 ]]></content>
   </entry>
 </search>
